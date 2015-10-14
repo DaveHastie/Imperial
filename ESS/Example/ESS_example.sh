@@ -1,0 +1,1 @@
+../Main/ESS -X Input/X_example.txt -Y Input/Y_example.txt -par Input/par_file_example.xml -nsweep 11000 -burn_in 1000 -out_full Output/Example -top 100 -time -history -log > Output/Example_log
